@@ -1,0 +1,24 @@
+C:\Users\rose\Desktop\CALCULATOR_MENU\CALCULATOR_MENU\bin\Debug\CALCULATOR_MENU.exe.config
+C:\Users\rose\Desktop\CALCULATOR_MENU\CALCULATOR_MENU\bin\Debug\CALCULATOR_MENU.exe
+C:\Users\rose\Desktop\CALCULATOR_MENU\CALCULATOR_MENU\bin\Debug\CALCULATOR_MENU.pdb
+C:\Users\rose\Desktop\CALCULATOR_MENU\CALCULATOR_MENU\obj\Debug\CALCULATOR_MENU.csprojResolveAssemblyReference.cache
+C:\Users\rose\Desktop\CALCULATOR_MENU\CALCULATOR_MENU\obj\Debug\CALCULATOR_MENU.exe
+C:\Users\rose\Desktop\CALCULATOR_MENU\CALCULATOR_MENU\obj\Debug\CALCULATOR_MENU.pdb
+C:\Users\rose\Desktop\matzumiya-rosalia-CS_homework2\CALCULATOR_MENU\CALCULATOR_MENU\bin\Debug\CALCULATOR_MENU.exe.config
+C:\Users\rose\Desktop\matzumiya-rosalia-CS_homework2\CALCULATOR_MENU\CALCULATOR_MENU\obj\Debug\CALCULATOR_MENU.exe
+C:\Users\rose\Desktop\matzumiya-rosalia-CS_homework2\CALCULATOR_MENU\CALCULATOR_MENU\obj\Debug\CALCULATOR_MENU.pdb
+C:\Users\rose\Desktop\matzumiya-rosalia-CS_homework2\CALCULATOR_MENU\CALCULATOR_MENU\bin\Debug\CALCULATOR_MENU.exe
+C:\Users\rose\Desktop\matzumiya-rosalia-CS_homework2\CALCULATOR_MENU\CALCULATOR_MENU\bin\Debug\CALCULATOR_MENU.pdb
+C:\Users\rose\Desktop\matzumiya-rosalia-CS_homework2\CALCULATOR_MENU\CALCULATOR_MENU\obj\Debug\CALCULATOR_MENU.csprojResolveAssemblyReference.cache
+C:\Users\rosalia\Desktop\SSD\C#\Finalized Assignments\Calculator_Menu_matzumiya-rosalia\matzumiya-rosalia-CS_homework2\CALCULATOR_MENU\CALCULATOR_MENU\bin\Debug\CALCULATOR_MENU.exe.config
+C:\Users\rosalia\Desktop\SSD\C#\Finalized Assignments\Calculator_Menu_matzumiya-rosalia\matzumiya-rosalia-CS_homework2\CALCULATOR_MENU\CALCULATOR_MENU\obj\Debug\CALCULATOR_MENU.exe
+C:\Users\rosalia\Desktop\SSD\C#\Finalized Assignments\Calculator_Menu_matzumiya-rosalia\matzumiya-rosalia-CS_homework2\CALCULATOR_MENU\CALCULATOR_MENU\obj\Debug\CALCULATOR_MENU.pdb
+C:\Users\rosalia\Desktop\SSD\C#\Finalized Assignments\Calculator_Menu_matzumiya-rosalia\matzumiya-rosalia-CS_homework2\CALCULATOR_MENU\CALCULATOR_MENU\bin\Debug\CALCULATOR_MENU.exe
+C:\Users\rosalia\Desktop\SSD\C#\Finalized Assignments\Calculator_Menu_matzumiya-rosalia\matzumiya-rosalia-CS_homework2\CALCULATOR_MENU\CALCULATOR_MENU\bin\Debug\CALCULATOR_MENU.pdb
+C:\Users\rosalia\Desktop\SSD\C#\Finalized Assignments\Calculator_Menu_matzumiya-rosalia\matzumiya-rosalia-CS_homework2\CALCULATOR_MENU\CALCULATOR_MENU\obj\Debug\CALCULATOR_MENU.csprojResolveAssemblyReference.cache
+C:\Users\rosalia\Desktop\SSD\C#\Finalized Assignments\Calculator_Menu_matzumiya-rosalia\calculator-menu\CALCULATOR_MENU\CALCULATOR_MENU\bin\Debug\CALCULATOR_MENU.exe.config
+C:\Users\rosalia\Desktop\SSD\C#\Finalized Assignments\Calculator_Menu_matzumiya-rosalia\calculator-menu\CALCULATOR_MENU\CALCULATOR_MENU\obj\Debug\CALCULATOR_MENU.exe
+C:\Users\rosalia\Desktop\SSD\C#\Finalized Assignments\Calculator_Menu_matzumiya-rosalia\calculator-menu\CALCULATOR_MENU\CALCULATOR_MENU\obj\Debug\CALCULATOR_MENU.pdb
+C:\Users\rosalia\Desktop\SSD\C#\Finalized Assignments\Calculator_Menu_matzumiya-rosalia\calculator-menu\CALCULATOR_MENU\CALCULATOR_MENU\bin\Debug\CALCULATOR_MENU.exe
+C:\Users\rosalia\Desktop\SSD\C#\Finalized Assignments\Calculator_Menu_matzumiya-rosalia\calculator-menu\CALCULATOR_MENU\CALCULATOR_MENU\bin\Debug\CALCULATOR_MENU.pdb
+C:\Users\rosalia\Desktop\SSD\C#\Finalized Assignments\Calculator_Menu_matzumiya-rosalia\calculator-menu\CALCULATOR_MENU\CALCULATOR_MENU\obj\Debug\CALCULATOR_MENU.csprojResolveAssemblyReference.cache
